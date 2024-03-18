@@ -1,4 +1,9 @@
-#include <stdio.h>
+// Task
+// You need to do the following
+
+// Run the code as is and read the error that you get
+// Add parentheses around the condition and then re-run the code
+// #include <stdio.h>
 
 int main() {
     int age = 25;
